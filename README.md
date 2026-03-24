@@ -1,4 +1,4 @@
-# openclaw-langfuse (v3 — token tracking fix)
+# openclaw-langfuse
 
 OpenClaw plugin that sends agent traces to a self-hosted [Langfuse](https://langfuse.com) instance. No npm packages required — uses the Langfuse REST API directly via native `fetch`.
 
